@@ -18,6 +18,7 @@ using content scraped from https://crocoit.com
 - Google Gemini API — LLM for answer generation
 
 ## Project Structure
+```
 crocoit-rag-chatbot/
 ├── notebooks/
 │   ├── 01_scraping.ipynb
@@ -28,7 +29,7 @@ crocoit-rag-chatbot/
 ├── vector_store/
 ├── .gitignore
 └── README.md
-
+```
 ## How to Run
 1. Run 01_scraping.ipynb
 2. Run 02_chunking_embedding.ipynb
